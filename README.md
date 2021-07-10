@@ -4,7 +4,7 @@
 
 My name is Troy Williams and I am a professional mining engineer and programmer writing software for the mining industry. The software is primarily for 3D CAD systems that are focused on the mining and mineral industry, particularly underground drilling and blasting operations.
 
-I spend a lot of time writing python code, prototypes for my software development team. I use Jupyter notebooks and various other technologies to bring my ideas to life. You can visit my [blog](https://www.bluebill.net), Twitter: [![Twitter][1.2]][1], or LinkedIn: [![LinkedIn][3.2]][3].
+I spend a lot of time writing python code, prototypes for my software development team. I use Jupyter notebooks and various other technologies to bring my ideas to life. You can visit my [blog](https://www.bluebill.net), [Twitter][1], or [LinkedIn][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
